@@ -1,0 +1,23 @@
+---
+interval: 10
+sites:
+    id1:
+        url: 'https://www.twitter.com/'
+        content: 'happening'
+        full_match: false
+    id2:
+        url: 'https://www.google.com'
+        content: 'Unknown'
+        full_match: false
+    id3:
+        url: 'https://www.google.co.in'
+        content: 'Google'
+        full_match: false
+    id4:
+        url: 'https://www.abcdefgh.com'
+        content: 'Google'
+        full_match: false
+    id5:
+        url: 'https://blog.rabimba.com'
+        content: 'Rambling'
+        full_match: false
