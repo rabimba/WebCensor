@@ -2,7 +2,7 @@
 
 """
 Usage:
-    web_monitor.py [options]
+    run.py [options]
 
 options:
     -c=INTERVAL         Change check interval value
@@ -38,7 +38,7 @@ from app import app
 
 
 LOG_LEVEL = logging.DEBUG
-LOG_FILE = "./web_monitor.log"
+LOG_FILE = "./web_monitor_turk_real.log"
 VERSION = 0.1
 CONFIG_PATH = "./web_monitor.yaml"
 TIMEOUT = 30
