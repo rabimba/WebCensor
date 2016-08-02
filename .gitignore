@@ -1,0 +1,4 @@
+.idea
+venv
+web_monitor.log
+__pycache__
